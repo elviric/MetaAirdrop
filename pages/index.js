@@ -4,7 +4,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import {ethers} from "ethers";
 import Web3Modal from "web3modal"
-import {ABI,contract,signs} from "./contract"
+import {ABI,contract,signs} from "../public/contract"
 
 
 
