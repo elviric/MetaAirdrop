@@ -141,14 +141,14 @@ useEffect(()=>{
   return (
     <div className={styles.container}>
       <Head>
-        <title>MetaDAI Airdrop | Demo</title>
-        <meta name="description" content="Claim MetaDAO airdrops" />
+        <title>Slaptpoken Airdrop | Demo</title>
+        <meta name="description" content="Claim Slap token" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-         MetaDAO Airdrop DEMO
+         Slap Airdrop DEMO
         </h1>
         <div className={styles.grid}>
           
